@@ -14,7 +14,7 @@ A modern web-based OCR (Optical Character Recognition) application built with St
 
 ## Demo
 
-[Watch the video demonstration](https://drive.google.com/file/d/10gP1RYqSDxFl1lpzA_TqjY7gMrOLkaqC/view?usp=drive_link)
+[Watch the video demonstration](https://youtu.be/-PJ74xs5ncg)
 
 ## Requirements
 
@@ -151,10 +151,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Fabrice - fabishz@example.com
+Fabrice - fabricoder009@gmail.com
 
 Project Link: [https://github.com/fabishz/ocr-text-scanner](https://github.com/fabishz/ocr-text-scanner)
 
----
 
-**Built as part of AI Without ML coursework - Understanding Classical OCR Systems**
+
